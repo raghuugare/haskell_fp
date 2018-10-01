@@ -1,6 +1,6 @@
 module Reverse where
 
-rvrs :: String -> String
+rvrs :: [a] -> [a]
 rvrs [] = []
 rvrs (x:xs) = rvrs xs ++ [x]
 
