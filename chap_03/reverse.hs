@@ -1,7 +1,8 @@
 module Reverse where
 
 rvrs :: String -> String
-rvrs s = s
+rvrs [] = []
+rvrs (x:xs) = rvrs xs ++ [x]
 
 main :: IO ()
 main = do
