@@ -1,3 +1,3 @@
-# Haskell from First Principles, by a Zero, from Negative Infinity ! :-)
+# Haskell as a gateway (getaway?) to FP ! :-)
 
 This is is my foray into the hallowed Haskell Heaven !
